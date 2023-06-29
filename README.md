@@ -1,6 +1,6 @@
-# Welcome to your CDK TypeScript project
+# Welcome to your AWS CDK TypeScript S3-IAM project
 
-This is a blank project for CDK development with TypeScript.
+This is a IAM & S3 bucket project for CDK development with Typescript
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
